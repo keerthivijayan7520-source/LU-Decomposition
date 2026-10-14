@@ -34,7 +34,7 @@ To write a program to find the LU Decomposition of a matrix.
 ### print(U)
 
 
-#5(B) To find the LU Decomposition of a matrix 
+## 5(B) To find the LU Decomposition of a matrix 
 ## Program to find the L and U matrix.
 ### Developed by: keerthi.V
 ### RegisterNumber: 26010139
@@ -50,10 +50,10 @@ To write a program to find the LU Decomposition of a matrix.
 
 
 ## Output:
-#5(A)
+## 5(A)
 <img width="782" height="795" alt="image" src="https://github.com/user-attachments/assets/ae19bbd3-649e-4a8f-a06a-6873a1dc045c" />
 
-#5(B)
+## 5(B)
 <img width="751" height="818" alt="image" src="https://github.com/user-attachments/assets/c3699926-bee8-4fb8-98b8-09bd6c347c45" />
 
 
