@@ -20,7 +20,7 @@ To write a program to find the LU Decomposition of a matrix.
 4. Display the solution vector X and stop the program.
 
 ### Program:
-### 5(A) To find the L and U matrix
+## 5(A) To find the L and U matrix
 ### Program to find the L and U matrix.
 ### Developed by: keerthi.V
 ### RegisterNumber: 26010139
@@ -35,7 +35,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 
 #5(B) To find the LU Decomposition of a matrix 
-### Program to find the L and U matrix.
+## Program to find the L and U matrix.
 ### Developed by: keerthi.V
 ### RegisterNumber: 26010139
 ### import os
