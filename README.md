@@ -13,7 +13,7 @@ To write a program to find the LU Decomposition of a matrix.
 2.Import the required NumPy and SciPy libraries.
 3.Perform LU decomposition to obtain the L and U matrices.
 4.Display the L and U matrices and stop the program.
-#5(B)
+### 5(B)
 1.Start the program and read the coefficient matrix A and vector B.
 2.Import the required NumPy and SciPy libraries.
 3.Perform LU decomposition and solve the system of linear equations using the decomposed matrices.
